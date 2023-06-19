@@ -1,0 +1,15 @@
+name: "Tutorial_website"
+title: "BFI v0.1.2"
+type: inverse
+left:
+  - text: "Get Started"
+    href: ./getstarted.html
+  - text: "Tutorials"
+    menu:
+       - text: "Tutorial for GLM"
+         href: ./glm.html
+       - text: "Tutorial for Survival"
+         href: ./survival.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/hassanpazira/BFI_website
