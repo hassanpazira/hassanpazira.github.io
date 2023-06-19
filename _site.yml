@@ -1,0 +1,10 @@
+name: "BFI v0.1.2"
+output_dir: 'docs'
+output:
+  html_document:
+    theme: default
+    highlight: default
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
